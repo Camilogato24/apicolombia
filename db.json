@@ -1,4 +1,4 @@
-[  
+{ "departamentos" :[  
     {  
         "id":0,
         "departamento":"Amazonas",
@@ -385,5 +385,6 @@
             "Zipac\u00f3n",
             "Zipaquir\u00e1"
         ]
-    },
+    }
 ]
+}
